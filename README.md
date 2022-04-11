@@ -17,3 +17,7 @@ This is a  image classification  trained Machine Learning Model on the top of Ke
 # Model Prediction
 
 ![Model_predict](https://user-images.githubusercontent.com/81525107/162843058-34349447-6374-4467-8576-7d4e6afaaf26.png)
+
+# Confusion Matrix
+
+![Confusion_matrix](https://user-images.githubusercontent.com/81525107/162843152-9aab63c9-d64d-45c0-abf3-e2a1ad67450f.png)
